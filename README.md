@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Valiyulloh 👋
 
-<!--
-**Valiulloh/Valiulloh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year Software Engineering Student in Germany
 
-Here are some ideas to get you started:
+🇺🇿 Originally from Uzbekistan
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- Full Stack Developer
+- Interested in Cybersecurity
+- Building React and Java applications
+- Looking for internship and junior opportunities
+
+## Tech Stack
+
+Frontend:
+- React
+- JavaScript
+- HTML/CSS
+
+Backend:
+- Node.js
+- Java
+- Spring Boot
+
+Database:
+- PostgreSQL
+- MySQL
+
+Tools:
+- Git
+- Docker
+- Linux
+
+## Current Projects
+
+- E-commerce Platform
+- Stock Market App
+- Product Backlog Application
+
+## Contact
+
+📧 valiyulloh1@gmail.com
