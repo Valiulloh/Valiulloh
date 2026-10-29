@@ -1,43 +1,57 @@
-# Hi, I'm Valiyulloh 👋
+# Hi, I'm Valiulloh Mamatkulov
 
-🎓 Final-year Software Engineering Student in Germany
+Frontend Developer based in Berlin, Germany, and a B.Sc. Software Engineering graduate from the University of Europe for Applied Sciences.
 
-🇺🇿 Originally from Uzbekistan
+I build responsive web interfaces with JavaScript, TypeScript, React, and Next.js. My experience includes a frontend development internship, freelance business websites, and projects combining interface development with testing and backend integration.
 
-## About Me
+**Open to junior frontend developer opportunities.**
 
-- Full Stack Developer
-- Interested in Cybersecurity
-- Building React and Java applications
-- Looking for internship and junior opportunities
+## Technical Skills
 
-## Tech Stack
+- **Languages:** JavaScript, TypeScript, HTML, CSS
+- **Frontend:** React, Next.js, Tailwind CSS
+- **Backend & database:** Node.js, Express, MongoDB
+- **Tools:** Git, GitHub, GitHub Actions, npm, Vite
 
-Frontend:
-- React
-- JavaScript
-- HTML/CSS
+## Projects
 
-Backend:
-- Node.js
-- Java
-- Spring Boot
+### Everyday Tech - E-commerce Website
 
-Database:
-- PostgreSQL
-- MySQL
+A responsive electronics storefront with product search, filtering, sorting, color and storage selection, a persistent shopping cart, and demo checkout.
 
-Tools:
-- Git
-- Docker
-- Linux
+- Built an admin panel for products, categories, image uploads, inventory, and orders.
+- Added 45 automated tests covering cart, inventory, product variants, and order workflows.
+- Configured GitHub Actions to check formatting, run tests, and build the project.
 
-## Current Projects
+**Stack:** HTML, CSS, JavaScript
 
-- E-commerce Platform
-- Stock Market App
-- Product Backlog Application
+[Source code](https://github.com/Valiulloh/everyday-tech) | [Live demo](https://everyday-tech-portfolio.witty-ocean-1794.chatgpt.site)
 
-## Contact
+*Frontend demo: admin changes and orders are stored in the visitor's browser; checkout does not process payments.*
 
-📧 valiyulloh1@gmail.com
+### Responsive Job Application Tracker - Bachelor Thesis
+
+Researched, designed, and implemented a responsive job application tracking system as my bachelor thesis.
+
+- Developed application creation, editing, and deletion, company/position search, status filtering, and date sorting.
+- Connected the React interface to an Express/MongoDB backend and added application statistics by status.
+- Achieved a thesis score of **91/100**.
+
+**Stack:** React, Node.js, Express, MongoDB
+
+[Source code](https://github.com/Valiulloh/job-application-tracking-system)
+
+## Experience
+
+- **Freelance Frontend Developer | April 2026 - Present:** Building responsive business websites, including [AB Berliner](https://ab-berliner.de) and [ACROBAU GmbH](https://acrobsu.com).
+- **Frontend Developer Intern, Radiant Energy Comp | November 2025 - April 2026:** Developed responsive UI components, supported frontend features and bug fixes, and tested pages across screen sizes and browsers.
+
+## Education & Certifications
+
+- **B.Sc. Software Engineering**, University of Europe for Applied Sciences, Potsdam, Germany | September 2023 - August 2026
+- **Responsive Web Design**, freeCodeCamp | 2026
+- **JavaScript Certification**, freeCodeCamp | 2026
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/valiulloh-mamatkulov-16a240346) | [Email](mailto:valiyulloh1@gmail.com)
